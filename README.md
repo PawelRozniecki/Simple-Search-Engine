@@ -21,11 +21,15 @@ list that is sorted by TF-IDF.
 
 ## Building application 
 
-To build the JAR file use the command
+To build the JAR file use the command:
 ```
 mvn clean package
 ```
+- Output JAR is going to be saved in target/ directory
+To run the JAR app  use the command:
 
-  
+``` java -jar SimpleSearchEngine-1.0-SNAPSHOT-jar-with-dependencies.jar```
+
+
 
   
