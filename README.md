@@ -45,7 +45,13 @@ To run the JAR app  use the command:
       - The output will consist of document ID's in which the term can be found along and their corresponding td_idf scores
  ![picture alt](https://github.com/PawelRozniecki/Simple-Search-Engine/blob/main/images/searchingScreen.png)
 * Option 3 Terminates the application 
- ![picture alt](https://github.com/PawelRozniecki/Simple-Search-Engine/blob/main/images/Exiting.png)
+ ![picture alt](https://github.com/PawelRozniecki/Simple-Search-Engine/blob/main/images/Exiting.png)\
+ 
+ 
+ ## Testing
+ 
+ Tests have been performed using JUnit
+ Test coverage: 100% (7 out of 7 test passed)
 
    
 
