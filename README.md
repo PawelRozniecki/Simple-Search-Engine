@@ -21,6 +21,10 @@ list that is sorted by TF-IDF.
 
 ## Building application 
 
+To build the JAR file use the command
+```
+mvn clean package
+```
 
   
 
