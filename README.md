@@ -56,7 +56,7 @@ To run the JAR app  use the command:
  ### Answer to the question in the provided task
  
  There are 2 errors in the example:
- 1. When entering a fox keyword , the output is in the wrong order. The output should be document 3, document 1. This is because document 3 has less words.
+ 1. When entering a fox keyword , the output is in the wrong order. The output should be document 3, document 1. This is because document 3 has higher TF-IDF due to having less words in the document.
  2. The requirement was to output document Id's along with their corresponding TF-IDF scores. The example doesn't contain the scores
 
    
