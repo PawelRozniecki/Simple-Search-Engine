@@ -50,8 +50,8 @@ To run the JAR app  use the command:
  
  ## Testing
  
- Tests have been performed using JUnit
- Test coverage: 100% (7 out of 7 test passed)
+- Tests have been performed using JUnit
+- Test coverage: 100% (7 out of 7 test passed)
  
  ### Answer to the question in the provided task
  
