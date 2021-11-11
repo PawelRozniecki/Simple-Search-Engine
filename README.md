@@ -37,8 +37,8 @@ To run the JAR app  use the command:
 2. Main menu with 3 options will show up
 3. You can select an option by entering a number  between 1 and 3 in the terminal
 * Option 1 allows you to index the document. Here you will be be able to specify document ID and the content of the document
-* Option 2 allows you to perform a search query on a single word. You will be asked to type in the word you want to search 
-    -The output will consist of document ID's in which the term can be found along and their corresponding td_idf scores
+- Option 2 allows you to perform a search query on a single word. You will be asked to type in the word you want to search  
+ - The output will consist of document ID's in which the term can be found along and their corresponding td_idf scores
     
 * Option 3 Terminates the application 
    
