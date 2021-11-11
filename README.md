@@ -52,6 +52,12 @@ To run the JAR app  use the command:
  
  Tests have been performed using JUnit
  Test coverage: 100% (7 out of 7 test passed)
+ 
+ ### Answer to the question in the provided task
+ 
+ There are 2 errors in the example:
+ 1. When entering a fox keyword , the output is in the wrong order. The output should be document 3, document 1. This is because document 3 has less words.
+ 2. The requirement was to output document Id's along with their corresponding TF-IDF scores. The example doesn't contain the scores
 
    
 
