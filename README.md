@@ -36,7 +36,7 @@ To run the JAR app  use the command:
 1. Run the jar file
 2. Main menu with 3 options will show up
 3. You can select an option by entering a number  between 1 and3 in the terminal
-    *Option 1 allows you to index a document
+* Option 1 allows you to index the document.
    
 
 
